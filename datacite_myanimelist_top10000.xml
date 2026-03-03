@@ -15,26 +15,14 @@
   <subjects>
     <subject>Anime</subject>
     <subject>MyAnimeList</subject>
-    <subject>Recommendation systems</subject>
-    <subject>Ratings</subject>
+    <subject>Movies and TV Shows</subject>
+    <subject>Pop Culture</subject>
   </subjects>
-  <language>en</language>
-  <descriptions>
-    <description descriptionType="Abstract">A comprehensive dataset of the top 10,000 anime on MyAnimeList, including titles, ratings, rankings, popularity, episodes, and other metadata. See landing page for full column list and updates.</description>
-  </descriptions>
-  <relatedIdentifiers>
-    <relatedIdentifier relatedIdentifierType="URL" relationType="IsReferencedBy">https://www.kaggle.com/datasets/furkanark/myanimelist-top-10000-anime-dataset</relatedIdentifier>
-  </relatedIdentifiers>
-  <rightsList>
-    <rights>Refer to the Kaggle dataset page for licensing terms.</rights>
-  </rightsList>
   <dates>
-    <date dateType="Created">2026-01-12</date>
+    <date dateType="Updated">2026-01-12</date>
+    <date dateType="Coverage">1956-2026</date>
   </dates>
-  <formats>
-    <format>CSV</format>
-  </formats>
-  <alternateIdentifiers>
-    <alternateIdentifier alternateIdentifierType="KaggleSlug">furkanark/myanimelist-top-10000-anime-dataset</alternateIdentifier>
-  </alternateIdentifiers>
+  <descriptions>
+    <description descriptionType="Abstract">A comprehensive dataset of the top 10,000 anime on MyAnimeList.</description>
+  </descriptions>
 </resource>
