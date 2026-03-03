@@ -52,11 +52,18 @@ Links characters to the specific voice actors who portrayed them. The variables 
 3. language: The language of the performance (e.g., Japanese).
 
 ## dataset-metadata.json
-Metadata for the dataset.
+Metadata for the dataset as inputted by Furkan Arık on Kaggle.
 
 ## DataCite Metadata Schema XML
-This file contains the DataCite Metadata Schema for the above documents.
+This file contains metadate for the above documents using the DataCite Metadata Schema.
+* Metadata files - An XML file structured according to the DataCite metadata schema, http://schema.datacite.org/Links to an external site.
+  - Suggestion: You are welcome to use the Microsoft CoPilot AI tool (log in with a Net ID) to help you generate the XML file. If you do use CoPilot, please check and correct the output from CoPilot against the DataCite Schema to ensure correctness. Please also acknowledge in your Readme file that you used CoPilot to help generate the XML.
 
 ## finalreport.pdf
-Put in elements.....
+The final report includes the following sections:
+* data profile, including data, metadate, enrichment, and publicaitons
+* repository profile, including scope and access
+* additional information, including recommended citation, considerations for preservation, and ethical and legal considerations
+* works cited
+
 
