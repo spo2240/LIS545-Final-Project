@@ -1,4 +1,4 @@
-The files included in this dataset are as follows (descriptions adapted from https://www.kaggle.com/datasets/furkanark/myanimelist-top-10000-anime-dataset):
+The files included in this dataset are as follows (descriptions for csv files adapted from https://www.kaggle.com/datasets/furkanark/myanimelist-top-10000-anime-dataset):
 
 ## anime.csv
 The central table containing general information and statistics for each anime. All other tables link back to this one. The variables are as follows:
