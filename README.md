@@ -54,8 +54,8 @@ Links characters to the specific voice actors who portrayed them. The variables 
 ## dataset-metadata.json
 Metadata for the dataset as inputted by Furkan Arık on Kaggle.
 
-## datacite_myanimelist_top10000.xml
-This file contains metadata for the above documents using the DataCite Metadata Schema.  CoPilot AI was used to help craft this file.
+## datacite_mal.xml
+This file contains metadata for the above documents using the DataCite Metadata Schema.  CoPilot AI was used to help craft this file, and then edited by me.
 
 ## 545finalreport.pdf
 The final report includes the following sections:
