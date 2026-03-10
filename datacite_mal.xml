@@ -3,7 +3,9 @@
   <identifier identifierType="URL">https://www.kaggle.com/datasets/furkanark/myanimelist-top-10000-anime-dataset</identifier>
   <creators>
     <creator>
-      <creatorName>Furkan Arık</creatorName>
+      <creatorName nameType="Personal">Arık, Furkan</creatorName>
+      <givenName>Furkan</givenName>
+      <familyName>Arık</familyName>
     </creator>
   </creators>
   <titles>
