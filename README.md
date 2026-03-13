@@ -59,7 +59,7 @@ This file contains metadata for the above documents using the DataCite Metadata 
 
 ## 545finalreport.pdf
 The final report includes the following sections:
-* data profile, including data, metadate, enrichment, and publicaitons
+* data profile, including data, metadata, enrichment, and publications
 * repository profile, including scope and access
 * additional information, including recommended citation, considerations for preservation, and ethical and legal considerations
 * works cited
